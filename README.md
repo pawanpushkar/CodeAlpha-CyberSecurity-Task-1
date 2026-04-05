@@ -1,34 +1,41 @@
-# CodeAlpha-CyberSecurity
+🔐 CodeAlpha Cyber Security Internship Projects
 
-Cyber Security internship projects for CodeAlpha, including a Python-based network sniffer to analyze network traffic and understand packet flow using Scapy.
+This repository contains my work completed during the CodeAlpha Cyber Security Internship, focusing on practical cybersecurity concepts and hands-on implementation.
 
-Basic Network Sniffer
+📡 Basic Network Sniffer (Python)
+🎯 Objective
 
-Objective:
+To capture and analyze network traffic packets using Python, helping understand how data flows across a network.
 
-To capture and analyze network traffic packets using Python.
+🛠️ Tools & Technologies
+🐍 Python
+📦 Scapy
+💻 Visual Studio Code
+📄 Project Description
 
-Tools Used:
+This project is a simple yet powerful network packet sniffer built using Python and the Scapy library.
 
-Python
+It captures live network packets and extracts key information such as:
 
-Scapy
+Source IP address
+Destination IP address
+Protocol type
 
-Visual Studio Code
+This helps in understanding real-time network communication and packet structures.
 
-Description:
-
-This program captures IP packets and displays source IP, destination IP, and protocol type.
-
-Sample Output:
-
+📊 Sample Output
 Packet: 192.168.31.1 -> 224.0.0.1 | Protocol: 2
+🎓 Learning Outcomes
 
-Learning Outcome :
-Understanding packet structure
+✔️ Understanding of packet structure
+✔️ Basics of network monitoring
+✔️ Hands-on experience with Scapy
+✔️ Insight into how network traffic flows
 
-Basics of network monitoring
+🔗 Connect & Explore
 
-Hands-on experience with Scapy
+Check out my LinkedIn post on this project for more insights and demonstration 🚀
 
-Check out linkedin post of Network Sniffer:
+⭐ Conclusion
+
+This project strengthened my foundational knowledge in cybersecurity and gave me practical exposure to network traffic analysis.
